@@ -1,3 +1,4 @@
+# enable-workflows
 name: Build iOS IPA
 
 on:
